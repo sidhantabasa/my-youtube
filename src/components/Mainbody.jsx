@@ -4,7 +4,7 @@ import Videolist from './Videolist'
 
 const Mainbody = () => {
   return (
-    <div>
+    <div> 
         <Btnlist/>
         <Videolist/>
     </div>
