@@ -9,7 +9,6 @@ const Videolist = () => {
 
   useEffect(()=>{
     getVideos();
-
   },[]);
 
   const getVideos = async()=>{
