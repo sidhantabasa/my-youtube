@@ -5,7 +5,6 @@ import { VIDEO_SUGGESTION_API } from '../constant';
 
 
 const Title = () => {
-
   const dispatch = useDispatch();
   const [searchQuery, setsearchQuery] = useState([])
   const [suggestion, setsuggestion] = useState([])
