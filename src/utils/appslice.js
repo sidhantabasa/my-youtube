@@ -1,5 +1,5 @@
 import { createSlice } from "@reduxjs/toolkit";
-
+ 
 const appsclice= createSlice({
     name:"app",  
     initialState:{
