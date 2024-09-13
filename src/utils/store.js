@@ -6,6 +6,4 @@ const store= configureStore({
         app: appslice,
     },
 });
-
-
 export default store;   
