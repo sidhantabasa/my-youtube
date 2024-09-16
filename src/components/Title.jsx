@@ -3,7 +3,7 @@ import { toggleMenu } from '../utils/appslice'
 import { useDispatch } from 'react-redux'
 import { VIDEO_SUGGESTION_API } from '../constant';
 
-
+ 
 const Title = () => {
   const dispatch = useDispatch();
   const [searchQuery, setsearchQuery] = useState([])
